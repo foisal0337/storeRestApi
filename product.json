@@ -1,0 +1,131 @@
+[
+    {
+      "name": "apple watch",
+      "price": 225,
+      "company": "evaly",
+      "rating": 4.5
+    },
+    {
+      "name": "LED tv",
+      "price": 109,
+      "company": "evaly",
+      "rating": 5
+    },
+    {
+      "name": "albany table",
+      "price": 309,
+      "company": "webShop",
+      "rating": 4.9
+    },
+    {
+      "name": "armchair",
+      "price": 125,
+      "company": "daraz",
+      "rating": 4.8
+    },
+    {
+      "name": "table",
+      "price": 40,
+      "company": "daraz",
+      "rating": 4.6
+    },
+    {
+      "name": "dining table",
+      "price": 42,
+      "company": "webShop",
+      "rating": 4.55
+    },
+    {
+      "name": "emperor bed",
+      "price": 23,
+      "company": "evaly"
+    },
+    {
+      "name": "entertainment center",
+      "price": 59,
+      "featured": true,
+      "company": "daraz"
+    },
+    {
+      "name": "high-back bench",
+      "price": 39,
+      "featured": true,
+      "company": "evaly"
+    },
+  
+    {
+      "name": "leather sofa",
+      "price": 99,
+      "company": "webShop"
+    },
+    {
+      "name": "modern bookshelf",
+      "price": 31,
+      "featured": true,
+      "company": "daraz"
+    },
+    {
+      "name": "modern poster",
+      "price": 30,
+      "company": "evaly"
+    },
+    {
+      "name": "shelf",
+      "price": 30,
+      "company": "webShop"
+    },
+    {
+      "name": "simple chair",
+      "price": 109,
+      "company": "daraz"
+    },
+    {
+      "name": "sofa set",
+      "price": 129,
+      "company": "daraz"
+    },
+    {
+      "name": "suede armchair",
+      "price": 15,
+      "company": "webShop"
+    },
+    {
+      "name": "utopia sofa",
+      "price": 79,
+      "featured": true,
+      "company": "evaly"
+    },
+    {
+      "name": "vase table",
+      "price": 120,
+      "featured": true,
+      "company": "evaly"
+    },
+    {
+      "name": "wooden bed",
+      "price": 25,
+      "company": "evaly"
+    },
+    {
+      "name": "wooden desk",
+      "price": 15,
+      "company": "daraz"
+    },
+    {
+      "name": "wooden desk",
+      "price": 40,
+      "company": "daraz"
+    },
+    {
+      "name": "wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "daraz"
+    },
+    {
+      "name": "a first wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "webShop"
+    }
+  ]
